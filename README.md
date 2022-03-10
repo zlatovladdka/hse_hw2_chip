@@ -51,4 +51,4 @@ https://colab.research.google.com/drive/1CRy1_utxf2XMosLucnf2WeM0QdEgwj_U#scroll
 
 ## Бонус
 
-
+Досчитаться не успел, но в колабе есть ячейки, которые были запущены...
