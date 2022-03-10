@@ -1,11 +1,20 @@
 # hse_hw2_chip
 
-| XKC | CNX | KUS (controls)|
+| XKC | CNX |
 | :-: | :-: | :-:|
-| ![](img/.png) | ![](img/.png) | ![](img/.png) | 
-| ![](img/.png) | ![](img/.png) | ![](img/.png) | 
-| ![](img/.png) | ![](img/.png) | ![](img/.png) | 
-| ![](img/.png) | ![](img/.png) | ![](img/.png) | 
+| ![](img/.png) | ![](img/.png) | 
+| ![](img/.png) | ![](img/.png) |
+| ![](img/.png) | ![](img/.png) |
+| ![](img/.png) | ![](img/.png) |
+
+
+| KUS | KUS trimmed |
+| :-: | :-: | :-:|
+| ![](img/.png) | ![](img/.png) | 
+| ![](img/.png) | ![](img/.png) |
+| ![](img/.png) | ![](img/.png) |
+| ![](img/.png) | ![](img/.png) |
+
 
 
 | Образец | Всего ридов | Уникально | Не уникально | Не выровнилось |
