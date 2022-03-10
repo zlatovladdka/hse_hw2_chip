@@ -2,18 +2,20 @@
 
 | XKC | CNX |
 | :-: | :-: |
-| ![](img/.png) | ![](img/.png) | 
-| ![](img/.png) | ![](img/.png) |
-| ![](img/.png) | ![](img/.png) |
-| ![](img/.png) | ![](img/.png) |
+| ![](img/xkc_bs.png) | ![](img/cnx_bs.png) | 
+| ![](img/xkc_pbsq.png) | ![](img/cnx_pbsq.png) |
+| ![](img/xkc_pbsc.png) | ![](img/cnx_pbsc.png) |
+| ![](img/xkc_psgc.png) | ![](img/cnx_psgc.png) |
+
 
 
 | KUS | KUS trimmed |
 | :-: | :-: |
-| ![](img/.png) | ![](img/.png) | 
-| ![](img/.png) | ![](img/.png) |
-| ![](img/.png) | ![](img/.png) |
-| ![](img/.png) | ![](img/.png) |
+| ![](img/kus_bs.png) | ![](img/kust_bs.png) | 
+| ![](img/kus_pbsq.png) | ![](img/kust_pbsq.png) |
+| ![](img/kus_ptsq.png) | ![](img/kust_ptsq.png) |
+| ![](img/kus_pbsc.png) | ![](img/kust_pbsc.png) |
+| ![](img/kus_psgc.png) | ![](img/kust_psgc.png) |
 
 
 
