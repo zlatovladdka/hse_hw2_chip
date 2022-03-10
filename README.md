@@ -31,6 +31,8 @@ https://colab.research.google.com/drive/1CRy1_utxf2XMosLucnf2WeM0QdEgwj_U#scroll
 | CNX | 30415753 | 1091512 (3.59%) | 1734863 (5.70%) | 27589378 (90.71%) |
 | KUS | 1456 | 630 | 9.08% | |
 
+## Диграммы Венна
+
 
 
 
