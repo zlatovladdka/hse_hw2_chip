@@ -53,4 +53,5 @@ https://colab.research.google.com/drive/1CRy1_utxf2XMosLucnf2WeM0QdEgwj_U?usp=sh
 
 Эту часть дописываю 11.03, так как вычисление одной матрицы заняло больше двух часов.
 
+![](img/result.png)
 ![](img/result1.png)
