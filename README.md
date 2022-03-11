@@ -1,6 +1,6 @@
 # hse_hw2_chip
 
-https://colab.research.google.com/drive/1CRy1_utxf2XMosLucnf2WeM0QdEgwj_U#scrollTo=q9scmDGtGUDu
+https://colab.research.google.com/drive/1CRy1_utxf2XMosLucnf2WeM0QdEgwj_U?usp=sharing
 
 ## Анализ fastqc
 
